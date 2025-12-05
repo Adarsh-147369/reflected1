@@ -1,0 +1,6 @@
+flask
+sentence-transformers
+torch
+spacy
+textblob
+scikit-learn
