@@ -1,4 +1,4 @@
-# Adaptive Learning Platform
+# ReflectED
 
 An AI-powered educational platform that provides personalized learning experiences for engineering students across multiple streams (CSE, ECE, EEE, Mechanical, Civil). The platform generates AI-powered exams, evaluates student performance using SBERT semantic similarity, and recommends tailored learning resources based on performance metrics.
 
