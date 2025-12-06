@@ -46,7 +46,7 @@ Format your response as valid JSON only, with no additional text:
   "descriptive": [
     {
       "question": "Question text",
-      "model_answer": "Detailed answer (20 - 50 words)"
+      "model_answer": "Detailed answer (20 - 30 words)"
     }
   ]
 }
@@ -57,7 +57,7 @@ Important:
 - Descriptive questions should require detailed explanations
 - Model answers should be comprehensive and accurate
 - Return ONLY the JSON object, no markdown formatting or additional text
-- Give `;
+- Given question be in easy to meduim range and descriptive questions should be a easy questions`;
 
     // Make API request to OpenRouter
     const response = await axios.post(
